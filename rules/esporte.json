@@ -1,0 +1,742 @@
+{
+    "url_patterns": [
+        {
+            "pattern": "america\\-rio\\.com\\.br",
+            "name": "america-rio.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "atletico\\-mg\\.com\\.br",
+            "name": "atletico-mg.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "bahia\\.com\\.br",
+            "name": "bahia.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "bangu\\.com\\.br",
+            "name": "bangu.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "botafogo\\.com\\.br",
+            "name": "botafogo.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "cbf\\.com\\.br",
+            "name": "cbf.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "corinthians\\.com\\.br",
+            "name": "corinthians.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "cruzeiro\\.com\\.br",
+            "name": "cruzeiro.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "esporteinterativo\\.com\\.br",
+            "name": "esporteinterativo.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "esportes\\.estadao\\.com\\.br",
+            "name": "esportes.estadao.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "fifa\\.com",
+            "name": "fifa.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "flamengo\\.com\\.br",
+            "name": "flamengo.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "formula1\\.com",
+            "name": "formula1.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "foxsports\\.com\\.br",
+            "name": "foxsports.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "goal\\.com",
+            "name": "goal.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "grandepremio\\.com\\.br",
+            "name": "grandepremio.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "gremio\\.net",
+            "name": "gremio.net",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "lance\\.com\\.br",
+            "name": "lance.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "resultados\\.com",
+            "name": "resultados.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "santosfc\\.com\\.br",
+            "name": "santosfc.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "sportv\\.globo\\.com",
+            "name": "sportv.globo.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "uol\\.esporte\\.com",
+            "name": "uol.esporte.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "vasco\\.com\\.br",
+            "name": "vasco.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "vitoria\\.ba\\.gov\\.br",
+            "name": "vitoria.ba.gov.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "yahoo\\.esportes\\.com\\.br",
+            "name": "yahoo.esportes.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "globoesporte\\.globo\\.com",
+            "name": "globoesporte.globo.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "fluminense\\.com\\.br",
+            "name": "fluminense.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "internacional\\.com\\.br",
+            "name": "internacional.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "palmeiras\\.com\\.br",
+            "name": "palmeiras.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "saopaulofc\\.net",
+            "name": "saopaulofc.net",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "fortalezafc\\.com\\.br",
+            "name": "fortalezafc.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "cearasc\\.com",
+            "name": "cearasc.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "abcd\\.com\\.br",
+            "name": "abcd.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "americana\\-sp\\.com\\.br",
+            "name": "americana-sp.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "botafogo\\-sp\\.com\\.br",
+            "name": "botafogo-sp.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "bragantino\\.com\\.br",
+            "name": "bragantino.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "chapecoense\\.com\\.br",
+            "name": "chapecoense.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "crb\\.com\\.br",
+            "name": "crb.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "csa\\.com\\.br",
+            "name": "csa.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "operario\\.com\\.br",
+            "name": "operario.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "oeste\\.com\\.br",
+            "name": "oeste.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "parana\\.com\\.br",
+            "name": "parana.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "ponte\\-preta\\.com\\.br",
+            "name": "ponte-preta.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "remo\\.com\\.br",
+            "name": "remo.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "santa\\-cruz\\.com\\.br",
+            "name": "santa-cruz.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "londrina\\.com\\.br",
+            "name": "londrina.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "tombense\\.com\\.br",
+            "name": "tombense.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "vila\\-nova\\.com\\.br",
+            "name": "vila-nova.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "guarani\\.com\\.br",
+            "name": "guarani.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "juventude\\.com\\.br",
+            "name": "juventude.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "Inglaterra",
+            "name": "Inglaterra",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "arsenal\\.com",
+            "name": "arsenal.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "chelsea\\.com",
+            "name": "chelsea.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "liverpoolfc\\.com",
+            "name": "liverpoolfc.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "mancity\\.com",
+            "name": "mancity.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "manutd\\.com",
+            "name": "manutd.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "tottenhamhotspur\\.com",
+            "name": "tottenhamhotspur.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "westhamunited\\.com",
+            "name": "westhamunited.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "leicestercity\\.com",
+            "name": "leicestercity.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "evertonfc\\.com",
+            "name": "evertonfc.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "astonvilla\\.com",
+            "name": "astonvilla.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "Espanha",
+            "name": "Espanha",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "fcbarcelona\\.com",
+            "name": "fcbarcelona.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "realmadrid\\.com",
+            "name": "realmadrid.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "sevillafc\\.es",
+            "name": "sevillafc.es",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "atleticodemadrid\\.com",
+            "name": "atleticodemadrid.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "valenciacf\\.com",
+            "name": "valenciacf.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "realbetisbalompie\\.es",
+            "name": "realbetisbalompie.es",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "bilbao\\.eus",
+            "name": "bilbao.eus",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "granadacf\\.es",
+            "name": "granadacf.es",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "espanyol\\.com",
+            "name": "espanyol.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "real\\ sociedad\\.com",
+            "name": "real sociedad.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "Outros\\ Pa\u00edses",
+            "name": "Outros Pa\u00edses",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "bayernmunchen\\.de",
+            "name": "bayernmunchen.de",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "psg\\.fr",
+            "name": "psg.fr",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "juventus\\.com",
+            "name": "juventus.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "inter\\.it",
+            "name": "inter.it",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "acmilan\\.com",
+            "name": "acmilan.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "ajax\\.nl",
+            "name": "ajax.nl",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "fcporto\\.pt",
+            "name": "fcporto.pt",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "benfica\\.pt",
+            "name": "benfica.pt",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "sporting\\.pt",
+            "name": "sporting.pt",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        }
+    ]
+}

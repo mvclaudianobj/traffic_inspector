@@ -1,0 +1,454 @@
+{
+    "url_patterns": [
+        {
+            "pattern": "amd\\.com",
+            "name": "amd.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "apple\\.com",
+            "name": "apple.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "asrock\\.com",
+            "name": "asrock.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "asus\\.com",
+            "name": "asus.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "cisco\\.com",
+            "name": "cisco.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "dell\\.com",
+            "name": "dell.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "evga\\.com",
+            "name": "evga.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "galax\\.com",
+            "name": "galax.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "gigabyte\\.com",
+            "name": "gigabyte.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "hp\\.com",
+            "name": "hp.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "intel\\.com",
+            "name": "intel.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "lenovo\\.com",
+            "name": "lenovo.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "motorola\\.com\\.br",
+            "name": "motorola.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "msi\\.com",
+            "name": "msi.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "nokia\\.com",
+            "name": "nokia.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "nvidia\\.com",
+            "name": "nvidia.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "samsung\\.com",
+            "name": "samsung.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "sony\\.com",
+            "name": "sony.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "toshiba\\.com",
+            "name": "toshiba.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "zotac\\.com",
+            "name": "zotac.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "acer\\.com",
+            "name": "acer.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "alienware\\.com",
+            "name": "alienware.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "benq\\.com",
+            "name": "benq.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "brother\\.com",
+            "name": "brother.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "canon\\.com",
+            "name": "canon.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "corsair\\.com",
+            "name": "corsair.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "epson\\.com",
+            "name": "epson.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "gopro\\.com",
+            "name": "gopro.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "lg\\.com",
+            "name": "lg.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "logitech\\.com",
+            "name": "logitech.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "microsoft\\.com",
+            "name": "microsoft.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "panasonic\\.com",
+            "name": "panasonic.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "razer\\.com",
+            "name": "razer.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "sega\\.com",
+            "name": "sega.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "sennheiser\\.com",
+            "name": "sennheiser.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "sharp\\.com",
+            "name": "sharp.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "tp\\-link\\.com",
+            "name": "tp-link.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "western\\-digital\\.com",
+            "name": "western-digital.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "zte\\.com",
+            "name": "zte.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "anker\\.com",
+            "name": "anker.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "jbl\\.com",
+            "name": "jbl.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "logitechaudio\\.com",
+            "name": "logitechaudio.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "tcl\\.com",
+            "name": "tcl.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "viewsonic\\.com",
+            "name": "viewsonic.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "msi\\.com",
+            "name": "msi.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "energizer\\.com",
+            "name": "energizer.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "philips\\.com",
+            "name": "philips.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "belkin\\.com",
+            "name": "belkin.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "kyocera\\.com",
+            "name": "kyocera.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "yamaha\\.com",
+            "name": "yamaha.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        }
+    ]
+}

@@ -1,0 +1,328 @@
+{
+    "url_patterns": [
+        {
+            "pattern": "amazon\\.com",
+            "name": "amazon.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "amazon\\.co\\.uk",
+            "name": "amazon.co.uk",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "amazon\\.in",
+            "name": "amazon.in",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "aws\\.amazon\\.com",
+            "name": "aws.amazon.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "s3\\.amazonaws\\.com",
+            "name": "s3.amazonaws.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "amazon\\.ca",
+            "name": "amazon.ca",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "amazon\\.fr",
+            "name": "amazon.fr",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "amazon\\.it",
+            "name": "amazon.it",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "amazon\\.es",
+            "name": "amazon.es",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "amazon\\.nl",
+            "name": "amazon.nl",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "amazon\\.co\\.jp",
+            "name": "amazon.co.jp",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "amazon\\.com\\.mx",
+            "name": "amazon.com.mx",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "amazon\\.com\\.au",
+            "name": "amazon.com.au",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "amazon\\.com\\.tr",
+            "name": "amazon.com.tr",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "amazon\\.co\\.id",
+            "name": "amazon.co.id",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "aws\\.amazon\\.co\\.uk",
+            "name": "aws.amazon.co.uk",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "aws\\.amazon\\.com\\.br",
+            "name": "aws.amazon.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "aws\\.amazon\\.com\\.au",
+            "name": "aws.amazon.com.au",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "aws\\.amazon\\.ca",
+            "name": "aws.amazon.ca",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "aws\\.amazon\\.com/de",
+            "name": "aws.amazon.com/de",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "aws\\.amazon\\.com/fr",
+            "name": "aws.amazon.com/fr",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "aws\\.amazon\\.com/in",
+            "name": "aws.amazon.com/in",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "amazonprime\\.com",
+            "name": "amazonprime.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "amazon\\.co\\.uk/prime",
+            "name": "amazon.co.uk/prime",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "amazon\\.com/prime",
+            "name": "amazon.com/prime",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "primevideo\\.co\\.uk",
+            "name": "primevideo.co.uk",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "primevideo\\.de",
+            "name": "primevideo.de",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "developer\\.amazon\\.com",
+            "name": "developer.amazon.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "sellercentral\\.amazon\\.com",
+            "name": "sellercentral.amazon.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "marketplace\\.amazon\\.com",
+            "name": "marketplace.amazon.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "api\\.amazon\\.co\\.uk",
+            "name": "api.amazon.co.uk",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "api\\.amazon\\.com",
+            "name": "api.amazon.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "images\\-na\\.amazon\\.com",
+            "name": "images-na.amazon.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "media\\-amazon\\.com",
+            "name": "media-amazon.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "video\\.amazon\\.com",
+            "name": "video.amazon.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "music\\.amazon\\.com",
+            "name": "music.amazon.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        }
+    ]
+}

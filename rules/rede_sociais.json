@@ -1,0 +1,751 @@
+{
+    "url_patterns": [
+        {
+            "pattern": "twitter\\.com",
+            "name": "twitter.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "telegram\\.org",
+            "name": "telegram.org",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "viadeo\\.com",
+            "name": "viadeo.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "orkut\\.com",
+            "name": "orkut.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "whatsflirt\\.com",
+            "name": "whatsflirt.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "weibo\\.com",
+            "name": "weibo.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "pinboard\\.in",
+            "name": "pinboard.in",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "skyrock\\.com",
+            "name": "skyrock.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "weechat\\.org",
+            "name": "weechat.org",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "blueskyweb\\.xyz",
+            "name": "blueskyweb.xyz",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "ablo\\.app",
+            "name": "ablo.app",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "aminoapps\\.com",
+            "name": "aminoapps.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "bitbucket\\.org",
+            "name": "bitbucket.org",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "branchout\\.com",
+            "name": "branchout.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "classmates\\.com",
+            "name": "classmates.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "cyworld\\.com",
+            "name": "cyworld.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "deviantart\\.com",
+            "name": "deviantart.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "digg\\.com",
+            "name": "digg.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "discord\\.com",
+            "name": "discord.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "evernote\\.com",
+            "name": "evernote.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "flixster\\.com",
+            "name": "flixster.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "fotki\\.com",
+            "name": "fotki.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "foursquare\\.com",
+            "name": "foursquare.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "gaiaonline\\.com",
+            "name": "gaiaonline.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "github\\.com",
+            "name": "github.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "goodreads\\.com",
+            "name": "goodreads.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "hello\\.com",
+            "name": "hello.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "hootsuite\\.com",
+            "name": "hootsuite.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "imgur\\.com",
+            "name": "imgur.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "kickstarter\\.com",
+            "name": "kickstarter.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "litmatch\\.com",
+            "name": "litmatch.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "live\\.me",
+            "name": "live.me",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "livejournal\\.com",
+            "name": "livejournal.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "livingsocial\\.com",
+            "name": "livingsocial.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "lokalisten\\.de",
+            "name": "lokalisten.de",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "meetup\\.com",
+            "name": "meetup.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "mylife\\.com",
+            "name": "mylife.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "myspace\\.com",
+            "name": "myspace.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "photobucket\\.com",
+            "name": "photobucket.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "pinterest\\.com",
+            "name": "pinterest.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "pixiv\\.net",
+            "name": "pixiv.net",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "quora\\.com",
+            "name": "quora.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "qzone\\.qq\\.com",
+            "name": "qzone.qq.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "reddit\\.com",
+            "name": "reddit.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "renren\\.com",
+            "name": "renren.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "sharethis\\.com",
+            "name": "sharethis.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "shutterfly\\.com",
+            "name": "shutterfly.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "signal\\.org",
+            "name": "signal.org",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "slack\\.com",
+            "name": "slack.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "slashdot\\.org",
+            "name": "slashdot.org",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "snapchat\\.com",
+            "name": "snapchat.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "stayfriends\\.de",
+            "name": "stayfriends.de",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "tagged\\.com",
+            "name": "tagged.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "taringa\\.net",
+            "name": "taringa.net",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "tinychat\\.com",
+            "name": "tinychat.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "tradingview\\.com",
+            "name": "tradingview.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "wer\\-kennt\\-wen\\.de",
+            "name": "wer-kennt-wen.de",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "xing\\.com",
+            "name": "xing.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "youku\\.com",
+            "name": "youku.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "zhihu\\.com",
+            "name": "zhihu.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "flickr\\.com",
+            "name": "flickr.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "studivz\\.net",
+            "name": "studivz.net",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "linkedin\\.com",
+            "name": "linkedin.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "tiktok\\.com",
+            "name": "tiktok.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "whatsapp\\.com",
+            "name": "whatsapp.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "facebook\\.com",
+            "name": "facebook.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "instagram\\.com",
+            "name": "instagram.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "linkr\\.bio",
+            "name": "linkr.bio",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "likee\\.video",
+            "name": "likee.video",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "kwai\\.com",
+            "name": "kwai.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "skout\\.com",
+            "name": "skout.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "peach\\.cool",
+            "name": "peach.cool",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "vkontakte\\.ru",
+            "name": "vkontakte.ru",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "tumblr\\.com",
+            "name": "tumblr.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "parler\\.com",
+            "name": "parler.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "truthsocial\\.com",
+            "name": "truthsocial.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "rumble\\.com",
+            "name": "rumble.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "gettr\\.com",
+            "name": "gettr.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "mastodon\\.social",
+            "name": "mastodon.social",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "clubhouse\\.com",
+            "name": "clubhouse.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "nextdoor\\.com",
+            "name": "nextdoor.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "mewe\\.com",
+            "name": "mewe.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "ello\\.co",
+            "name": "ello.co",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        }
+    ]
+}

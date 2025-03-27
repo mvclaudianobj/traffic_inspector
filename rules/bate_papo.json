@@ -1,0 +1,148 @@
+{
+    "url_patterns": [
+        {
+            "pattern": "neenbo\\.com",
+            "name": "neenbo.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "qeep\\.com",
+            "name": "qeep.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "wapblog\\.com",
+            "name": "wapblog.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "adultfriendfinder\\.com",
+            "name": "adultfriendfinder.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "badoo\\.com",
+            "name": "badoo.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "batepapo\\.uol\\.com",
+            "name": "batepapo.uol.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "bpbol\\.com",
+            "name": "bpbol.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "brasirc\\.com",
+            "name": "brasirc.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "chat\\.terra\\.com",
+            "name": "chat.terra.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "chatrandom\\.com",
+            "name": "chatrandom.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "chegoupegou\\.com",
+            "name": "chegoupegou.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "lovoo\\.com",
+            "name": "lovoo.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "match\\.com",
+            "name": "match.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "meetme\\.com",
+            "name": "meetme.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "parperfeito\\.com",
+            "name": "parperfeito.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "blendr\\.com",
+            "name": "blendr.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        }
+    ]
+}

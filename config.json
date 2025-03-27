@@ -1,0 +1,28 @@
+{
+  "interface": "em1",
+  "verbose": "false",
+  "ignored_protocols": [
+    "HTTP",
+    "SMB"
+  ],
+  "ignored_ips": [
+    "192.168.0.0/24",
+    "192.168.4.0/24",
+    "1.1.1.1/32",
+    "8.8.8.8/32",
+    "8.8.4.4/32"
+  ],
+  "ignored_snis": [
+    { "pattern": "google.com" },
+    { "pattern": "meet.google.com" },
+    { "pattern": "meetings.googleapis.com" },
+    { "pattern": "accounts.youtube.com" },
+    { "pattern": "talk.google.com" },
+    { "pattern": "youtube-ui.l.google.com" },
+    { "pattern": "about.google.com" },
+    { "pattern": "accounts.google.com" },
+    { "pattern": "gbs.google.com" },
+    { "pattern": "play.google.com" },
+    { "pattern": "workspace.google.com" }
+  ]
+}

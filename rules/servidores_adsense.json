@@ -1,0 +1,589 @@
+{
+    "url_patterns": [
+        {
+            "pattern": "4d5\\.net",
+            "name": "4d5.net",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "4info\\.com",
+            "name": "4info.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "4jnzhl0d0\\.com",
+            "name": "4jnzhl0d0.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "50websads\\.com",
+            "name": "50websads.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "51yes\\.com",
+            "name": "51yes.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "5mcwl\\.pw",
+            "name": "5mcwl.pw",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "6ldu6qa\\.com",
+            "name": "6ldu6qa.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "77tracking\\.com",
+            "name": "77tracking.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "7bpeople\\.com",
+            "name": "7bpeople.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "7search\\.com",
+            "name": "7search.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "82o9v830\\.com",
+            "name": "82o9v830.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "a\\-ads\\.com",
+            "name": "a-ads.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "a\\.aproductmsg\\.com",
+            "name": "a.aproductmsg.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "a\\.consumer\\.net",
+            "name": "a.consumer.net",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "a\\.mktw\\.net",
+            "name": "a.mktw.net",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "a\\.sakh\\.com",
+            "name": "a.sakh.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "a\\.ucoz\\.net",
+            "name": "a.ucoz.net",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "a\\.ucoz\\.ru",
+            "name": "a.ucoz.ru",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "a\\.vartoken\\.com",
+            "name": "a.vartoken.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "a\\.vfghd\\.com",
+            "name": "a.vfghd.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "a\\.vfgtb\\.com",
+            "name": "a.vfgtb.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "a135\\.wftv\\.com",
+            "name": "a135.wftv.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "aa\\-metrics\\.beauty\\.hotpepper\\.jp",
+            "name": "aa-metrics.beauty.hotpepper.jp",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "aa\\-metrics\\.recruit\\-card\\.jp",
+            "name": "aa-metrics.recruit-card.jp",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "aa\\-metrics\\.trip\\-ai\\.jp",
+            "name": "aa-metrics.trip-ai.jp",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "aaddzz\\.com",
+            "name": "aaddzz.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "aax\\-eu\\-dub\\.amazon\\.com",
+            "name": "aax-eu-dub.amazon.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "aaxdetect\\.com",
+            "name": "aaxdetect.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "abacho\\.net",
+            "name": "abacho.net",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "abackchain\\.com",
+            "name": "abackchain.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "360yield\\.com",
+            "name": "360yield.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "3lift\\.com",
+            "name": "3lift.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "4affiliate\\.net",
+            "name": "4affiliate.net",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "777partner\\.com",
+            "name": "777partner.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "a\\.muloqot\\.uz",
+            "name": "a.muloqot.uz",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "a\\.pub\\.network",
+            "name": "a.pub.network",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "a\\.xanga\\.com",
+            "name": "a.xanga.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "a5\\.overclockers\\.ua",
+            "name": "a5.overclockers.ua",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "adgear\\.com",
+            "name": "adgear.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "afilio\\.com\\.br",
+            "name": "afilio.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "grumft\\.com",
+            "name": "grumft.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "infolinks\\.com",
+            "name": "infolinks.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "media\\.net",
+            "name": "media.net",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "mercadoads\\.com",
+            "name": "mercadoads.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "monetizemore\\.com",
+            "name": "monetizemore.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "monetizer\\.com",
+            "name": "monetizer.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "premiumads\\.com\\.br",
+            "name": "premiumads.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "themoneytizer\\.com",
+            "name": "themoneytizer.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "viewdeos\\.com",
+            "name": "viewdeos.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "adclickmedia\\.com",
+            "name": "adclickmedia.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "adversal\\.com",
+            "name": "adversal.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "adsupply\\.com",
+            "name": "adsupply.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "bidvertiser\\.com",
+            "name": "bidvertiser.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "chitika\\.com",
+            "name": "chitika.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "clicksor\\.com",
+            "name": "clicksor.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "ezoic\\.com",
+            "name": "ezoic.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "popcash\\.net",
+            "name": "popcash.net",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "propellerads\\.com",
+            "name": "propellerads.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "revenuehits\\.com",
+            "name": "revenuehits.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "sape\\.ru",
+            "name": "sape.ru",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "sheeppod\\.com",
+            "name": "sheeppod.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "sitemedia\\.com",
+            "name": "sitemedia.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "trafficjunky\\.com",
+            "name": "trafficjunky.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "txx\\.me",
+            "name": "txx.me",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "valueclickmedia\\.com",
+            "name": "valueclickmedia.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        }
+    ]
+}

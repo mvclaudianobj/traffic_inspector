@@ -1,0 +1,2155 @@
+{
+    "url_patterns": [
+        {
+            "pattern": "pornhub\\.com",
+            "name": "pornhub.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xvideos\\.com",
+            "name": "xvideos.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "anysex\\.com",
+            "name": "anysex.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "videosx\\.pro",
+            "name": "videosx.pro",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "hotgirlclub\\.com",
+            "name": "hotgirlclub.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "kaktuz\\.com",
+            "name": "kaktuz.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "photoacompanhantes\\.com",
+            "name": "photoacompanhantes.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xhamster\\.com",
+            "name": "xhamster.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "porndig\\.com",
+            "name": "porndig.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "boafoda\\.com",
+            "name": "boafoda.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "spankbang\\.com",
+            "name": "spankbang.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "theporndude\\.com",
+            "name": "theporndude.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "joysporn\\.com",
+            "name": "joysporn.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "pornobae\\.com",
+            "name": "pornobae.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "palmtube\\.com",
+            "name": "palmtube.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xvideosbrasil\\.com",
+            "name": "xvideosbrasil.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xvideosamadoras\\.com",
+            "name": "xvideosamadoras.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "pornonacionais\\.com",
+            "name": "pornonacionais.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "hotms\\.com\\.br",
+            "name": "hotms.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "taxi69\\.com",
+            "name": "taxi69.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "pornodoido\\.com",
+            "name": "pornodoido.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "porn555\\.com",
+            "name": "porn555.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xxvideoss\\.org",
+            "name": "xxvideoss.org",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "porn00\\.org",
+            "name": "porn00.org",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "pornktu\\.be",
+            "name": "pornktu.be",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xtapes\\.to",
+            "name": "xtapes.to",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xvideosxbr\\.com\\.br",
+            "name": "xvideosxbr.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "pornobrasil\\.blog\\.br",
+            "name": "pornobrasil.blog.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "garotaporno\\.com",
+            "name": "garotaporno.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xvideosx\\.com\\.br",
+            "name": "xvideosx.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "pornky\\.com",
+            "name": "pornky.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "pornomineiro\\.com",
+            "name": "pornomineiro.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "videodesexo\\.blog",
+            "name": "videodesexo.blog",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "porn300\\.com",
+            "name": "porn300.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "cliphunter\\.com",
+            "name": "cliphunter.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xvideos\\-tv\\.com",
+            "name": "xvideos-tv.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xvidios\\.blog",
+            "name": "xvidios.blog",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "festadoprazer\\.com\\.br",
+            "name": "festadoprazer.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "yourdailypornvideos\\.ws",
+            "name": "yourdailypornvideos.ws",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xvideos10\\.blog\\.br",
+            "name": "xvideos10.blog.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "porn\\-plus\\.com",
+            "name": "porn-plus.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "lubetube\\.com",
+            "name": "lubetube.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xvidios\\.xxx",
+            "name": "xvidios.xxx",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "porngo\\.com",
+            "name": "porngo.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "filmespornos\\.net",
+            "name": "filmespornos.net",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xvideo\\.vlog\\.br",
+            "name": "xvideo.vlog.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "rclove\\.com\\.br",
+            "name": "rclove.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "sexu\\.com",
+            "name": "sexu.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xvideospornor\\.com",
+            "name": "xvideospornor.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xvideosbrasil\\.com\\.br",
+            "name": "xvideosbrasil.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "fatalmodel\\.com",
+            "name": "fatalmodel.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "mileroticos\\.com",
+            "name": "mileroticos.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "porntube\\.com",
+            "name": "porntube.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "ilhadoprazer\\.com\\.br",
+            "name": "ilhadoprazer.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xvideosporno\\.blog\\.br",
+            "name": "xvideosporno.blog.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xvideos\\.blog\\.br",
+            "name": "xvideos.blog.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "mundosexanuncio\\.com",
+            "name": "mundosexanuncio.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "pornone\\.com",
+            "name": "pornone.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "hustlertube\\.com",
+            "name": "hustlertube.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "pornogram\\.xxx",
+            "name": "pornogram.xxx",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "pussyspace\\.com",
+            "name": "pussyspace.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "rcmodells\\.com\\.br",
+            "name": "rcmodells.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "pichunter\\.com",
+            "name": "pichunter.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xvideos\\-xxx\\.com",
+            "name": "xvideos-xxx.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xvideosgratis\\.com\\.br",
+            "name": "xvideosgratis.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xkeezmovies\\.com",
+            "name": "xkeezmovies.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "fullxxxmovies\\.net",
+            "name": "fullxxxmovies.net",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "orgasm\\.com",
+            "name": "orgasm.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xvideosgratuito\\.com",
+            "name": "xvideosgratuito.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "hd\\-easyporn\\.com",
+            "name": "hd-easyporn.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "cumlouder\\.com",
+            "name": "cumlouder.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xisvideos\\.net",
+            "name": "xisvideos.net",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xvideostop\\.org",
+            "name": "xvideostop.org",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xvideos\\.blog",
+            "name": "xvideos.blog",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xvideos18\\.blog\\.br",
+            "name": "xvideos18.blog.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xvideosbr\\.blog",
+            "name": "xvideosbr.blog",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xvideosbrasileiro\\.net",
+            "name": "xvideosbrasileiro.net",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "tubxporn\\.com",
+            "name": "tubxporn.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "tubxporn\\.xxx",
+            "name": "tubxporn.xxx",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "porn4days\\.biz",
+            "name": "porn4days.biz",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "sextvx\\.com",
+            "name": "sextvx.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xvidio\\.com\\.br",
+            "name": "xvidio.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "beeg\\.com",
+            "name": "beeg.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xmoviesforyou\\.com",
+            "name": "xmoviesforyou.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xvideosincesto\\.com",
+            "name": "xvideosincesto.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xvideotravestis\\.com",
+            "name": "xvideotravestis.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "pornocarioca\\.com",
+            "name": "pornocarioca.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xvideos18\\.com\\.br",
+            "name": "xvideos18.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "netfapx\\.com",
+            "name": "netfapx.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "siska\\.video",
+            "name": "siska.video",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xxxfree\\.watch",
+            "name": "xxxfree.watch",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "garotacomlocal\\.com",
+            "name": "garotacomlocal.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "porndish\\.com",
+            "name": "porndish.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xvideos\\-hd\\.com",
+            "name": "xvideos-hd.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xnxx\\.com",
+            "name": "xnxx.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "malicia\\.com\\.br",
+            "name": "malicia.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "freudbox\\.com",
+            "name": "freudbox.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "lovelyclips\\.com",
+            "name": "lovelyclips.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "streamporn\\.pw",
+            "name": "streamporn.pw",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "sexyclube\\.uol\\.com\\.br",
+            "name": "sexyclube.uol.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "mangoporn\\.net",
+            "name": "mangoporn.net",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "hotmoms\\.com",
+            "name": "hotmoms.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "hclips\\.com",
+            "name": "hclips.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "eporner\\.com",
+            "name": "eporner.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "brasileirinhas\\.com\\.br",
+            "name": "brasileirinhas.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "caiunoxvideos\\.com\\.br",
+            "name": "caiunoxvideos.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "cams\\.com",
+            "name": "cams.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "collectionofbestporn\\.com",
+            "name": "collectionofbestporn.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "daftsex\\.com",
+            "name": "daftsex.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "drtuber\\.com",
+            "name": "drtuber.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "empflix\\.com",
+            "name": "empflix.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "en\\.paradisehill\\.cc",
+            "name": "en.paradisehill.cc",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "erosguia\\.com\\.br",
+            "name": "erosguia.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "erotik\\.com",
+            "name": "erotik.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "fapdu\\.com",
+            "name": "fapdu.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "godude\\.link",
+            "name": "godude.link",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "hqporner\\.com",
+            "name": "hqporner.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "keezmovies\\.com",
+            "name": "keezmovies.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "king\\-media\\.net",
+            "name": "king-media.net",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "livejasmin\\.com",
+            "name": "livejasmin.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "perfectgirls\\.net",
+            "name": "perfectgirls.net",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "madthumbs\\.com",
+            "name": "madthumbs.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "mofosex\\.com",
+            "name": "mofosex.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "monster\\-tube\\.com",
+            "name": "monster-tube.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "morangovip\\.com\\.br",
+            "name": "morangovip.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "motherless\\.com",
+            "name": "motherless.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "moviefap\\.com",
+            "name": "moviefap.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "onlyfans\\.com",
+            "name": "onlyfans.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "pandamovies\\.pw",
+            "name": "pandamovies.pw",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "paradisehill\\.cc",
+            "name": "paradisehill.cc",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "perfectgirls\\.net",
+            "name": "perfectgirls.net",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "plusone8\\.com",
+            "name": "plusone8.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "porncor\\.com",
+            "name": "porncor.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "porndoe\\.com",
+            "name": "porndoe.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "pornovideoshub\\.com",
+            "name": "pornovideoshub.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "pornrabbit\\.com",
+            "name": "pornrabbit.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "porntitan\\.com",
+            "name": "porntitan.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "pornvibe\\.org",
+            "name": "pornvibe.org",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "pornwild\\.to",
+            "name": "pornwild.to",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "pt\\.porn\\.com",
+            "name": "pt.porn.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "pussy\\.com",
+            "name": "pussy.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "redtube\\.com",
+            "name": "redtube.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "redtube\\.com\\.br",
+            "name": "redtube.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "sexlog\\.com",
+            "name": "sexlog.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "sexo\\.uol\\.com\\.br",
+            "name": "sexo.uol.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "sexvideos\\.host",
+            "name": "sexvideos.host",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "sexyhot\\.globo\\.com",
+            "name": "sexyhot.globo.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "sexymt\\.com\\.br",
+            "name": "sexymt.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "sxyprn\\.com",
+            "name": "sxyprn.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "tnaflix\\.com",
+            "name": "tnaflix.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "tube8\\.com",
+            "name": "tube8.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "tv\\.fakings\\.com",
+            "name": "tv.fakings.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "txxx\\.com",
+            "name": "txxx.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "usexvideos\\.com",
+            "name": "usexvideos.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "veporno\\.net",
+            "name": "veporno.net",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "vidoz8\\.com",
+            "name": "vidoz8.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "vrporn\\.com",
+            "name": "vrporn.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "3movs\\.com",
+            "name": "3movs.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "4tube\\.com",
+            "name": "4tube.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "analdin\\.com",
+            "name": "analdin.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "definebabe\\.com",
+            "name": "definebabe.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "drtuber\\.com",
+            "name": "drtuber.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "ellxx\\.com",
+            "name": "ellxx.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "empflix\\.com",
+            "name": "empflix.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "freeomovie\\.to",
+            "name": "freeomovie.to",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "fuq\\.com",
+            "name": "fuq.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "fux\\.com",
+            "name": "fux.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "gotporn\\.com",
+            "name": "gotporn.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "ixxx\\.com",
+            "name": "ixxx.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "joysporn\\.vip",
+            "name": "joysporn.vip",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "laraporn\\.com",
+            "name": "laraporn.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "likuoo\\.video",
+            "name": "likuoo.video",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "nuvid\\.com",
+            "name": "nuvid.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "porn\\.com",
+            "name": "porn.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "pornhd\\.com",
+            "name": "pornhd.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "pornhits\\.com",
+            "name": "pornhits.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "porntrex\\.com",
+            "name": "porntrex.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "redtube\\.com",
+            "name": "redtube.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "sexvid\\.xxx",
+            "name": "sexvid.xxx",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "slutload\\.com",
+            "name": "slutload.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "sunporno\\.com",
+            "name": "sunporno.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "thumbzilla\\.com",
+            "name": "thumbzilla.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "tnaflix\\.com",
+            "name": "tnaflix.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "tube8\\.com",
+            "name": "tube8.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xfreehd\\.com",
+            "name": "xfreehd.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xnxx\\.com",
+            "name": "xnxx.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xvideosf\\.com",
+            "name": "xvideosf.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xxxfiles\\.com",
+            "name": "xxxfiles.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "youjizz\\.com",
+            "name": "youjizz.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "youporn\\.com",
+            "name": "youporn.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xvid3os\\.blog\\.br",
+            "name": "xvid3os.blog.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xvideo\\.blog",
+            "name": "xvideo.blog",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xvideo\\.tv\\.br",
+            "name": "xvideo.tv.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xvideoporno\\.net",
+            "name": "xvideoporno.net",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xvideos\\-4k\\.com",
+            "name": "xvideos-4k.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xvideos\\.es",
+            "name": "xvideos.es",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xvideos\\.etc\\.br",
+            "name": "xvideos.etc.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xvideos\\.eu\\.org",
+            "name": "xvideos.eu.org",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xvideos\\.net",
+            "name": "xvideos.net",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xvideos5\\.com\\.br",
+            "name": "xvideos5.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xvideosfoda\\.com",
+            "name": "xvideosfoda.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xvideosnovinha\\.com",
+            "name": "xvideosnovinha.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xvideosnovinha\\.com\\.br",
+            "name": "xvideosnovinha.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xvideosnovinhas\\.com",
+            "name": "xvideosnovinhas.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xvideoson\\.com",
+            "name": "xvideoson.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xvideosx\\.blog\\.br",
+            "name": "xvideosx.blog.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xvideosxxx\\.com\\.br",
+            "name": "xvideosxxx.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "youjizz\\.com",
+            "name": "youjizz.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "youporn\\.com",
+            "name": "youporn.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "playboy\\.com",
+            "name": "playboy.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "xxx\\.com",
+            "name": "xxx.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "pornoxo\\.com",
+            "name": "pornoxo.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "spankbang\\.party",
+            "name": "spankbang.party",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "brazzers\\.com",
+            "name": "brazzers.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "bangbros\\.com",
+            "name": "bangbros.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "x18tube\\.com",
+            "name": "x18tube.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "sexmex\\.xxx",
+            "name": "sexmex.xxx",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "hotmovs\\.com",
+            "name": "hotmovs.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "sexyhub\\.com",
+            "name": "sexyhub.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "lubed\\.com",
+            "name": "lubed.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "efukt\\.com",
+            "name": "efukt.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "yespornplease\\.com",
+            "name": "yespornplease.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "pornhat\\.com",
+            "name": "pornhat.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "pornmd\\.com",
+            "name": "pornmd.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "alphaporno\\.com",
+            "name": "alphaporno.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "javhd\\.com",
+            "name": "javhd.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "pornflip\\.com",
+            "name": "pornflip.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "tushy\\.com",
+            "name": "tushy.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "analized\\.com",
+            "name": "analized.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "babes\\.com",
+            "name": "babes.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "hellporno\\.com",
+            "name": "hellporno.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "luxuretv\\.com",
+            "name": "luxuretv.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "trueanal\\.com",
+            "name": "trueanal.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "freeporn8\\.com",
+            "name": "freeporn8.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "madporn\\.net",
+            "name": "madporn.net",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "8muses\\.com",
+            "name": "8muses.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "digitalplayground\\.com",
+            "name": "digitalplayground.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "badoinkvr\\.com",
+            "name": "badoinkvr.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "dirtyship\\.com",
+            "name": "dirtyship.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        }
+    ]
+}

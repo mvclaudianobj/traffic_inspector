@@ -1,0 +1,292 @@
+{
+    "url_patterns": [
+        {
+            "pattern": "clicksign\\.com",
+            "name": "clicksign.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "counterpath\\.com",
+            "name": "counterpath.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "expressoja\\.com",
+            "name": "expressoja.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "ftp\\.dominiosistemas\\.com\\.br",
+            "name": "ftp.dominiosistemas.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "gupy\\.com",
+            "name": "gupy.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "gupy\\.io",
+            "name": "gupy.io",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "sieg\\.com",
+            "name": "sieg.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "api\\.sieg\\.com",
+            "name": "api.sieg.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "app\\.sieg\\.com",
+            "name": "app.sieg.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "cap\\.sieg\\.com",
+            "name": "cap.sieg.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "cap2\\.sieg\\.com",
+            "name": "cap2.sieg.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "cap3\\.sieg\\.com",
+            "name": "cap3.sieg.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "cap4\\.sieg\\.com",
+            "name": "cap4.sieg.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "cofre\\.sieg\\.com",
+            "name": "cofre.sieg.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "console\\.sieg\\.com",
+            "name": "console.sieg.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "download\\.dominiosistemas\\.com\\.br",
+            "name": "download.dominiosistemas.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "nfe\\.fazenda\\.sp\\.gov\\.br",
+            "name": "nfe.fazenda.sp.gov.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "nfe\\.sieg\\.com",
+            "name": "nfe.sieg.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "satsp\\.fazenda\\.sp\\.gov\\.br",
+            "name": "satsp.fazenda.sp.gov.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "sgd\\.dominiosistemas\\.com\\.br",
+            "name": "sgd.dominiosistemas.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "sieg\\.zendesk\\.com",
+            "name": "sieg.zendesk.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "suporte\\.dominioatendimento\\.com",
+            "name": "suporte.dominioatendimento.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "up\\.sieg\\.com",
+            "name": "up.sieg.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "www\\.cte\\.fazenda\\.gov\\.br",
+            "name": "www.cte.fazenda.gov.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "www\\.dominioatendimento\\.com",
+            "name": "www.dominioatendimento.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "www\\.nfe\\.fazenda\\.gov\\.br",
+            "name": "www.nfe.fazenda.gov.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "www\\.receita\\.fazenda\\.gov\\.br",
+            "name": "www.receita.fazenda.gov.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "www\\.sefaz\\.rs\\.gov\\.br",
+            "name": "www.sefaz.rs.gov.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "www1\\.nfe\\.fazenda\\.gov\\.br",
+            "name": "www1.nfe.fazenda.gov.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "cav\\.receita\\.fazenda\\.gov\\.br",
+            "name": "cav.receita.fazenda.gov.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "movidesk\\.com",
+            "name": "movidesk.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        },
+        {
+            "pattern": "www\\.onvio\\.com\\.br",
+            "name": "www.onvio.com.br",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": true
+        }
+    ]
+}

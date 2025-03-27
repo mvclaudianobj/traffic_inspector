@@ -1,0 +1,328 @@
+{
+    "url_patterns": [
+        {
+            "pattern": "anydesk\\.com",
+            "name": "anydesk.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "anydesk\\.net",
+            "name": "anydesk.net",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "anydesk\\.org",
+            "name": "anydesk.org",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "anydesk\\.io",
+            "name": "anydesk.io",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "anydesk\\.co",
+            "name": "anydesk.co",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "teamviewer\\.com",
+            "name": "teamviewer.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "teamviewer\\.net",
+            "name": "teamviewer.net",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "teamviewer\\.org",
+            "name": "teamviewer.org",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "teamviewer\\.io",
+            "name": "teamviewer.io",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "teamviewer\\.co",
+            "name": "teamviewer.co",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "supremocontrol\\.com",
+            "name": "supremocontrol.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "supremocontrol\\.net",
+            "name": "supremocontrol.net",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "supremocontrol\\.org",
+            "name": "supremocontrol.org",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "supremocontrol\\.io",
+            "name": "supremocontrol.io",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "supremocontrol\\.co",
+            "name": "supremocontrol.co",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "remotedesktop\\.google\\.com",
+            "name": "remotedesktop.google.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "logmein\\.com",
+            "name": "logmein.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "logmein\\.net",
+            "name": "logmein.net",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "logmein\\.org",
+            "name": "logmein.org",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "logmein\\.io",
+            "name": "logmein.io",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "logmein\\.co",
+            "name": "logmein.co",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "splashtop\\.com",
+            "name": "splashtop.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "splashtop\\.net",
+            "name": "splashtop.net",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "splashtop\\.org",
+            "name": "splashtop.org",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "splashtop\\.io",
+            "name": "splashtop.io",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "splashtop\\.co",
+            "name": "splashtop.co",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "uvnc\\.com",
+            "name": "uvnc.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "uvnc\\.net",
+            "name": "uvnc.net",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "uvnc\\.org",
+            "name": "uvnc.org",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "uvnc\\.io",
+            "name": "uvnc.io",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "uvnc\\.co",
+            "name": "uvnc.co",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "realvnc\\.com",
+            "name": "realvnc.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "realvnc\\.net",
+            "name": "realvnc.net",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "realvnc\\.org",
+            "name": "realvnc.org",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "realvnc\\.io",
+            "name": "realvnc.io",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "realvnc\\.co",
+            "name": "realvnc.co",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        }
+    ]
+}

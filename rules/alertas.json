@@ -1,0 +1,643 @@
+{
+    "url_patterns": [
+        {
+            "pattern": "outlook\\.office365\\.com",
+            "name": "outlook.office365.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "office\\.com",
+            "name": "office.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "excel\\.office365\\.com",
+            "name": "excel.office365.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "word\\.office365\\.com",
+            "name": "word.office365.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "powerpoint\\.office365\\.com",
+            "name": "powerpoint.office365.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "sharepoint\\.office365\\.com",
+            "name": "sharepoint.office365.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "onenote\\.office365\\.com",
+            "name": "onenote.office365.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "sway\\.office365\\.com",
+            "name": "sway.office365.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "delve\\.office365\\.com",
+            "name": "delve.office365.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "dynamics\\.office365\\.com",
+            "name": "dynamics.office365.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "forms\\.office365\\.com",
+            "name": "forms.office365.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "planning\\.office365\\.com",
+            "name": "planning.office365.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "project\\.office365\\.com",
+            "name": "project.office365.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "microsoftstream\\.office365\\.com",
+            "name": "microsoftstream.office365.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "todo\\.office365\\.com",
+            "name": "todo.office365.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "yammer\\.office365\\.com",
+            "name": "yammer.office365.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "watson\\.telemetry\\.microsoft\\.com",
+            "name": "watson.telemetry.microsoft.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "windows\\-update\\.microsoft\\.com",
+            "name": "windows-update.microsoft.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "microsoft\\-teams\\.com",
+            "name": "microsoft-teams.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "answers\\.microsoft\\.com",
+            "name": "answers.microsoft.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "azure\\.microsoft\\.com",
+            "name": "azure.microsoft.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "developer\\.microsoft\\.com",
+            "name": "developer.microsoft.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "msdn\\.microsoft\\.com",
+            "name": "msdn.microsoft.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "login\\.microsoftonline\\.com",
+            "name": "login.microsoftonline.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "onedrive\\.microsoft\\.com",
+            "name": "onedrive.microsoft.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "adservice\\.google\\.com",
+            "name": "adservice.google.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "adservice\\.google\\.com\\.mt",
+            "name": "adservice.google.com.mt",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "analytics\\.google\\.com",
+            "name": "analytics.google.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "clientmetrics\\-pa\\.googleapis\\.com",
+            "name": "clientmetrics-pa.googleapis.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "googleadservices\\.com",
+            "name": "googleadservices.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "google\\-analytics\\.com",
+            "name": "google-analytics.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "googleanalytics\\.com",
+            "name": "googleanalytics.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "googlesyndication\\.com",
+            "name": "googlesyndication.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "googlevideo\\.com",
+            "name": "googlevideo.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "mail\\-ads\\.google\\.com",
+            "name": "mail-ads.google.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "pagead\\.l\\.google\\.com",
+            "name": "pagead.l.google.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "partnerad\\.l\\.google\\.com",
+            "name": "partnerad.l.google.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "video\\-stats\\.video\\.google\\.com",
+            "name": "video-stats.video.google.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "about\\.google",
+            "name": "about.google",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "aboutme\\.google\\.com",
+            "name": "aboutme.google.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "account\\.google\\.com",
+            "name": "account.google.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "activity\\.google\\.com",
+            "name": "activity.google.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "admin\\.google\\.com",
+            "name": "admin.google.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "admob\\.google\\.com",
+            "name": "admob.google.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "google\\.com",
+            "name": "google.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "drive\\.google\\.com",
+            "name": "drive.google.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "maps\\.google\\.com",
+            "name": "maps.google.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "gmail\\.google\\.com",
+            "name": "gmail.google.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "scholar\\.google\\.com",
+            "name": "scholar.google.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "news\\.google\\.com",
+            "name": "news.google.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "translate\\.google\\.com",
+            "name": "translate.google.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "youtube\\.google\\.com",
+            "name": "youtube.google.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "plus\\.google\\.com",
+            "name": "plus.google.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "developer\\.android\\.com",
+            "name": "developer.android.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "cloud\\.google\\.com",
+            "name": "cloud.google.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "fonts\\.googleapis\\.com",
+            "name": "fonts.googleapis.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "storage\\.googleapis\\.com",
+            "name": "storage.googleapis.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "sites\\.google\\.com",
+            "name": "sites.google.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "support\\.google\\.com",
+            "name": "support.google.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "trends\\.google\\.com",
+            "name": "trends.google.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "marketingplatform\\.google\\.com",
+            "name": "marketingplatform.google.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "play\\.googleapis\\.com",
+            "name": "play.googleapis.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "amazon\\.com",
+            "name": "amazon.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "amazon\\.co\\.uk",
+            "name": "amazon.co.uk",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "amazon\\.in",
+            "name": "amazon.in",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "aws\\.amazon\\.com",
+            "name": "aws.amazon.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "s3\\.amazonaws\\.com",
+            "name": "s3.amazonaws.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "frostwire\\.com",
+            "name": "frostwire.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "utorrent\\.com",
+            "name": "utorrent.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "bittorrent\\.com",
+            "name": "bittorrent.com",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        },
+        {
+            "pattern": "torrentz\\.io",
+            "name": "torrentz.io",
+            "action": "pass",
+            "group": "default",
+            "tableID": 1,
+            "hosts": "*",
+            "enable": false
+        }
+    ]
+}
